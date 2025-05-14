@@ -2,7 +2,6 @@
 Proft or loss
 A fruit seller buys a dozen of bananas at Rs.X. He sells 1 banana at Rs.Y.
 Write a program to determine the proft or loss in Rs. for the fruit seller.
-
 */
 #include<iostream>
 using namespace std;
